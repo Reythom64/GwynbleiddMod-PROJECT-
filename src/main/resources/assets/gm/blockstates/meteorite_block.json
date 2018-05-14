@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "gm:meteorite_block" }
+    }
+}

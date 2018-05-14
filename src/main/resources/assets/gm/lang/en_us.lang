@@ -1,0 +1,34 @@
+
+//Items
+
+//ItemsClassiques
+item.silver_ore.name=Silver Ore
+item.raw_silver_ingot.name=Raw Silver Ingot
+item.silver_ingot.name=Basic Silver Ingot
+item.purified_silver_ingot.name=Purified Silver Ingot
+item.enriched_silver_ingot.name=Enriched Silver Ingot
+item.meteorite_silver_ingot.name=Meteorite Silver Ingot
+item.meteorite_ore.name=Meteorite Fragment
+item.meteorite_ingot.name=Meteorite Ingot
+
+//Epees
+item.sword_witcher_steel.name=Witcher Steel Sword
+item.sword_witcher_silver.name=Witcher Silver Sword
+
+//Armures
+item.classic_knight_chestplate.name=Classic Knight Chestplate
+item.classic_knight_leggings.name=Classic Knight Gambeson
+item.classic_knight_boots.name=Classic Knight Boots
+item.classic_knight_helmet.name=Classic Knight Helmet
+
+
+//Blocks
+tile.silver_ore_block.name=Silver Ore
+tile.meteorite_ore_block.name=Raw Meteorite Ore
+tile.raw_silver_block.name=Raw Silver Block
+tile.silver_block.name=Silver Block
+tile.purified_silver_block.name=Purified Silver Block
+tile.enriched_silver_block.name=Enriched Silver Block
+tile.meteorite_silver_block.name=Meteorite Silver Block
+tile.meteorite_block.name=Meteorite Fragments Block
+tile.meteorite_ingot_block.name=Meteorite Block

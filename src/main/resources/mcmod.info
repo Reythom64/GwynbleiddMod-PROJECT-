@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gm",
+  "name": "Reythom64's Gwynbleidd Mod",
+  "description": "When The Witcher 3 comes to life... In Minecraft!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reythom64"],
+  "credits": "Tanks to Andrzej Sapkowski for his work about The Witcher, the serie of my life to say it simply!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
